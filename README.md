@@ -1,5 +1,5 @@
 # Klasifikasi_Penyakit_Daun_Jeruk
-Program deteksi penyakit daun jeruk memiliki spesifikasi sebagai berikut: 
+# Program deteksi penyakit daun jeruk memiliki spesifikasi sebagai berikut: 
 1. Bahasa pemrograman python
 2. Metode Segmentasi Thresholding
 3. Metode Klasifikasi CNN
